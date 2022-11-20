@@ -123,7 +123,7 @@ export const projectsData = [
     name: 'shop',
     category: 'front',
     language: 'Html/Css/sass/javascript/typscript',
-    link: ""
+    link: "https://ismahenabdallah.github.io/shop_website/"
     //https://ismahenabdallah.github.io/shop/
 
   },
