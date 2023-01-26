@@ -19,6 +19,8 @@ import Project5 from './assets/img/projects/Image5.png';
 import Project6 from './assets/img/projects/image6.png';
 import Project7 from './assets/img/projects/image7.png';
 import Project8 from './assets/img/projects/Image8.png';
+import Project9 from './assets/img/projects/dashboard.png';
+import Project10 from './assets/img/projects/work.png';
 
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
@@ -32,6 +34,8 @@ import SkillImg7 from './assets/img/skills/mongodb.png'
 import SkillImg8 from './assets/img/skills/bootstrap.png'
 import SkillImg9 from './assets/img/skills/vuejs.png'
 import SkillImg10 from './assets/img/skills/typescript.png'
+import SkillImg11 from './assets/img/skills/angular.png'
+import SkillImg12 from './assets/img/skills/express.png'
 
 // navigation
 export const navigation = [
@@ -136,6 +140,24 @@ export const projectsData = [
     link: ""
 
   },
+  {
+    id: '9',
+    image: Project9,
+    name: 'dashbord(gestion des employés) ',
+    category: 'front/back',
+    language: 'MEAN STACK/Bootstrap',
+    link: ""
+
+  },
+  {
+    id: '10',
+    image: Project10,
+    name: 'work_website',
+    category: 'front/back',
+    language: 'MEAN STACK/Bootstrap',
+    link: ""
+
+  },
 
 
 ];
@@ -187,6 +209,14 @@ export const skills = [
   {
     image: SkillImg10,
   },
+  {
+    image: SkillImg11,
+  },
+  {
+    image: SkillImg12,
+  },
+
+
 
 ];
 export const certificats = [

@@ -3,7 +3,7 @@ import React from 'react';
 
 import { Typewriter } from "react-simple-typewriter"
 // import woman image
-import WomanImg from '../assets/img/IMG20220203123546.jpg';
+import WomanImg from '../assets/img/services/received_1753653008317984.jpeg';
 
 const Animation = () => {
  
