@@ -35,7 +35,7 @@ import SkillImg8 from './assets/img/skills/bootstrap.png'
 import SkillImg9 from './assets/img/skills/vuejs.png'
 import SkillImg10 from './assets/img/skills/typescript.png'
 import SkillImg11 from './assets/img/skills/angular.png'
-import SkillImg12 from './assets/img/skills/express.png'
+
 
 // navigation
 export const navigation = [
@@ -212,10 +212,7 @@ export const skills = [
   {
     image: SkillImg11,
   },
-  {
-    image: SkillImg12,
-  },
-
+ 
 
 
 ];

@@ -21,7 +21,7 @@ const About = () => {
               </p>
               <hr className='mb-8 opacity-5' />
               </div>
-              <a  href="cv ismahen abdallah.pdf" target="_blank" download>
+              <a  href="ismahen-abdallah.pdf" target="_blank" download>
                 <button className='border border-gray-600 text-white w-32 p-1 mt-8  hover:bg-accent-hover'>Download Cv</button></a>
 
        
