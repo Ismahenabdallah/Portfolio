@@ -19,8 +19,9 @@ import Project5 from './assets/img/projects/Image5.png';
 import Project6 from './assets/img/projects/image6.png';
 import Project7 from './assets/img/projects/image7.png';
 import Project8 from './assets/img/projects/Image8.png';
-import Project9 from './assets/img/projects/dashboard.png';
-import Project10 from './assets/img/projects/work.png';
+import Project9 from './assets/img/projects/image9.png';
+import Project10 from './assets/img/projects/image10.png';
+import Project11 from './assets/img/projects/image11.png';
 
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
@@ -158,6 +159,15 @@ export const projectsData = [
     link: ""
 
   },
+  {
+    id: '11',
+    image: Project11,
+    name: 'websitestatic',
+    category: 'front',
+    language: 'vue.js/Bootstrap',
+    link: ""
+
+  },
 
 
 ];
@@ -212,21 +222,23 @@ export const skills = [
   {
     image: SkillImg11,
   },
- 
+
 
 
 ];
 export const certificats = [
   { name: 'Python 101 for data science (cognitive Class)' },
-  { name: 'Injaz Tunisie' }, 
+  { name: 'Injaz Tunisie' },
   { name: "Certificat d'accomplissement l'essentiel de css(LinkedIn)" },
-   { name: "Certificat d'accomplissement l'essentiel de html (LinkedIn)" }
+  { name: "Certificat d'accomplissement l'essentiel de html (LinkedIn)" }
 ]
-export const educations =[
+export const educations = [
   {
- titre:'Baccalauréat en informatique en 2019'},
-{
- titre:'Licence en informatique de la gestion (business intelligence) en 2022'}
+    titre: 'Baccalauréat en informatique en 2019'
+  },
+  {
+    titre: 'Licence en informatique de la gestion (business intelligence) en 2022'
+  }
 ]
 
 
