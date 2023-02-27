@@ -2,6 +2,7 @@ import React from 'react';
 
 import { educations,certificats } from '../data';
 
+
 const About = () => {
   return (
     <section className='section bg-secondary' id='about'>

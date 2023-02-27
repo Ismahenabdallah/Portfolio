@@ -234,11 +234,15 @@ export const certificats = [
 ]
 export const educations = [
   {
-    titre: 'Baccalauréat en informatique en 2019'
+    titre: " Mastère professionnel en  Développement des Systèmes Informatiques et Réseaux(DSIR) (en cours )  ",
+  },
+
+  {
+    titre: 'Licence en informatique de la gestion (business intelligence)  (2022)'
   },
   {
-    titre: 'Licence en informatique de la gestion (business intelligence) en 2022'
-  }
+    titre: 'Baccalauréat en informatique (2019)'
+  },
 ]
 
 
