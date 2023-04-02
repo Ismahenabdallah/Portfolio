@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0622dce1.css",
-    "main.js": "/portfolio/static/js/main.117c1618.js",
+    "main.js": "/portfolio/static/js/main.e463dd42.js",
     "static/media/Image4.png": "/portfolio/static/media/Image4.5b869b189cd5e636a8ce.png",
     "static/media/Image2.png": "/portfolio/static/media/Image2.9ddb7219e1d3eb48e6a6.png",
     "static/media/Image1.png": "/portfolio/static/media/Image1.7d6f53da4fe02745a48d.png",
@@ -12,19 +12,24 @@
     "static/media/Image3.png": "/portfolio/static/media/Image3.7567d002444dddc16733.png",
     "static/media/image9.png": "/portfolio/static/media/image9.15bbe9a1e16c2bdb4503.png",
     "static/media/image6.png": "/portfolio/static/media/image6.9e749b548c75597cd236.png",
+    "static/media/image12.png": "/portfolio/static/media/image12.a87fc58e741e0f72c931.png",
     "static/media/image10.png": "/portfolio/static/media/image10.756cef7bffb17f4a72ca.png",
     "static/media/received_jpeg": "/portfolio/static/media/received_1753653008317984.7d2de3e3af5dc2db87c6.jpeg",
     "static/media/typescript.png": "/portfolio/static/media/typescript.1805dc377569414f323f.png",
+    "static/media/docker.png": "/portfolio/static/media/docker.5be6c5d09288136959cf.png",
+    "static/media/laravel.png": "/portfolio/static/media/laravel.8a0a16aad4776a8a5715.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.874bf71770a70fe5210d.png",
+    "static/media/nestjs.png": "/portfolio/static/media/nestjs.b600f579d1184241f72c.png",
     "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.268c4375260420e8d982.png",
     "static/media/mongodb.png": "/portfolio/static/media/mongodb.c9d3f247fffcdebc2bdf.png",
     "static/media/angular.png": "/portfolio/static/media/angular.fc750090ef02abffbca0.png",
     "index.html": "/portfolio/index.html",
     "static/media/getFetch.cjs": "/portfolio/static/media/getFetch.c780682470504fffbd04.cjs",
     "main.0622dce1.css.map": "/portfolio/static/css/main.0622dce1.css.map",
-    "main.117c1618.js.map": "/portfolio/static/js/main.117c1618.js.map"
+    "main.e463dd42.js.map": "/portfolio/static/js/main.e463dd42.js.map"
   },
   "entrypoints": [
     "static/css/main.0622dce1.css",
-    "static/js/main.117c1618.js"
+    "static/js/main.e463dd42.js"
   ]
 }
