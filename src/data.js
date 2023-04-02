@@ -22,20 +22,26 @@ import Project8 from './assets/img/projects/Image8.png';
 import Project9 from './assets/img/projects/image9.png';
 import Project10 from './assets/img/projects/image10.png';
 import Project11 from './assets/img/projects/image11.png';
+import Project12 from './assets/img/projects/image12.png';
 
 // skills images
-import SkillImg1 from './assets/img/skills/html5.png';
-import SkillImg2 from './assets/img/skills/css3.png';
-import SkillImg3 from './assets/img/skills/js.png';
-import SkillImg4 from './assets/img/skills/reactjs.png';
+import html5 from './assets/img/skills/html5.png';
+import css3 from './assets/img/skills/css3.png';
+import js from './assets/img/skills/js.png';
+import reactjs from './assets/img/skills/reactjs.png';
 
-import SkillImg5 from './assets/img/skills/nodejs.png';
-import SkillImg6 from './assets/img/skills/git.png';
-import SkillImg7 from './assets/img/skills/mongodb.png'
-import SkillImg8 from './assets/img/skills/bootstrap.png'
-import SkillImg9 from './assets/img/skills/vuejs.png'
-import SkillImg10 from './assets/img/skills/typescript.png'
-import SkillImg11 from './assets/img/skills/angular.png'
+import nodejs from './assets/img/skills/nodejs.png';
+import git from './assets/img/skills/git.png';
+import mongodb from './assets/img/skills/mongodb.png'
+import bootstrap from './assets/img/skills/bootstrap.png'
+import vuejs from './assets/img/skills/vuejs.png'
+import typescript from './assets/img/skills/typescript.png'
+import angular from './assets/img/skills/angular.png'
+import laravel from './assets/img/skills/laravel.png'
+import nestjs from './assets/img/skills/nestjs.png'
+import mysql from './assets/img/skills/mysql.png'
+import docker from './assets/img/skills/docker.png'
+import tailwindcss from './assets/img/skills/tailwindcss.png'
 
 
 // navigation
@@ -168,6 +174,15 @@ export const projectsData = [
     link: ""
 
   },
+  {
+    id: '12',
+    image: Project12,
+    name: 'restaurant management',
+    category: 'front/back',
+    language: 'vue.js/Bootstrap/json-server',
+    link: ""
+
+  },
 
 
 ];
@@ -186,41 +201,63 @@ export const projectsNav = [
 
 ];
 
+
+
+
 // skill
 export const skills = [
   {
-    image: SkillImg1,
+    image: js,
   },
   {
-    image: SkillImg2,
+    image: reactjs,
   },
   {
-    image: SkillImg3,
+    image: vuejs,
   },
   {
-    image: SkillImg4,
+    image: typescript,
+  },
+  {
+    image: angular,
+  },
+  {
+    image: nodejs,
+  },
+  {
+    image: nestjs,
   },
 
   {
-    image: SkillImg5,
+    image: laravel,
   },
   {
-    image: SkillImg6,
+    image: mongodb,
   },
   {
-    image: SkillImg7,
+    image: mysql,
   },
   {
-    image: SkillImg8,
+    image: html5,
   },
   {
-    image: SkillImg9,
+    image: css3,
   },
   {
-    image: SkillImg10,
+    image: bootstrap,
   },
   {
-    image: SkillImg11,
+    image: tailwindcss,
+  },
+
+
+
+  {
+    image: git,
+  },
+
+  {
+    image: docker,
   },
 
 
