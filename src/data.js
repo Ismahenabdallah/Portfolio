@@ -224,9 +224,9 @@ export const skills = [
   {
     image: nodejs,
   },
-  {
-    image: nestjs,
-  },
+  // {
+  //   image: nestjs,
+  // },
 
   {
     image: laravel,

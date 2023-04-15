@@ -6,7 +6,7 @@ import { Typewriter } from "react-simple-typewriter"
 import WomanImg from '../assets/img/services/received_1753653008317984.jpeg';
 
 const Animation = () => {
- 
+
   return (
     <section
       id='home'
@@ -18,15 +18,15 @@ const Animation = () => {
             <p className='text-lg text-accent text-md mb-[22px]'>
               salut , je suis  Ismahen! 👋
             </p>
-         
-      
-           
-                      <h1 className=' leading-[44px] md:leading-tight lg:text-4xl  lg:leading-[1.2] font-bold md:tracking-[-2px]'>
-            
-              <Typewriter words={["  I Build & Design "," Web Interfaces.", " Developer."]} loop cursor cursorStyle='|' typeSpeed={70} deleteSpeed={50} delaySpeed={1000} />
+
+
+
+            <h1 className=' leading-[44px] md:leading-tight lg:text-2xl  lg:leading-[1.2] font-bold md:tracking-[-2px]'>
+
+              <Typewriter words={["  I Build & Design ", " Web Interfaces.", " Developeur."]} loop cursor cursorStyle='|' typeSpeed={70} deleteSpeed={50} delaySpeed={1000} />
             </h1>
-            
-           
+
+
           </div>
           <div className='hidden lg:flex flex-1 justify-end items-end mt-12 mb-3 '>
             <img className='h-[50vh] rounded-md' src={WomanImg} alt='' />
