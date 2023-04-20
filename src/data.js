@@ -23,6 +23,7 @@ import Project9 from './assets/img/projects/image9.png';
 import Project10 from './assets/img/projects/image10.png';
 import Project11 from './assets/img/projects/image11.png';
 import Project12 from './assets/img/projects/image12.png';
+import Project13 from './assets/img/projects/image13.png';
 
 // skills images
 import html5 from './assets/img/skills/html5.png';
@@ -180,6 +181,15 @@ export const projectsData = [
     name: 'restaurant management',
     category: 'front/back',
     language: 'vue.js/Bootstrap/json-server',
+    link: ""
+
+  },
+  {
+    id: '13',
+    image: Project13,
+    name: 'TodoApp',
+    category: 'front/back',
+    language: 'MEVN/vuex/sass/bootstrap',
     link: ""
 
   },
