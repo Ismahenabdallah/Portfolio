@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0622dce1.css",
-    "main.js": "/portfolio/static/js/main.d0f8c761.js",
+    "main.css": "/portfolio/static/css/main.31dc923b.css",
+    "main.js": "/portfolio/static/js/main.1228459a.js",
     "static/media/Image4.png": "/portfolio/static/media/Image4.5b869b189cd5e636a8ce.png",
     "static/media/Image2.png": "/portfolio/static/media/Image2.9ddb7219e1d3eb48e6a6.png",
     "static/media/Image1.png": "/portfolio/static/media/Image1.7d6f53da4fe02745a48d.png",
@@ -20,17 +20,16 @@
     "static/media/docker.png": "/portfolio/static/media/docker.5be6c5d09288136959cf.png",
     "static/media/laravel.png": "/portfolio/static/media/laravel.8a0a16aad4776a8a5715.png",
     "static/media/mysql.png": "/portfolio/static/media/mysql.874bf71770a70fe5210d.png",
-    "static/media/nestjs.png": "/portfolio/static/media/nestjs.b600f579d1184241f72c.png",
     "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.268c4375260420e8d982.png",
     "static/media/mongodb.png": "/portfolio/static/media/mongodb.c9d3f247fffcdebc2bdf.png",
     "static/media/angular.png": "/portfolio/static/media/angular.fc750090ef02abffbca0.png",
     "index.html": "/portfolio/index.html",
     "static/media/getFetch.cjs": "/portfolio/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.0622dce1.css.map": "/portfolio/static/css/main.0622dce1.css.map",
-    "main.d0f8c761.js.map": "/portfolio/static/js/main.d0f8c761.js.map"
+    "main.31dc923b.css.map": "/portfolio/static/css/main.31dc923b.css.map",
+    "main.1228459a.js.map": "/portfolio/static/js/main.1228459a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0622dce1.css",
-    "static/js/main.d0f8c761.js"
+    "static/css/main.31dc923b.css",
+    "static/js/main.1228459a.js"
   ]
 }
