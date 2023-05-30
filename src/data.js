@@ -39,7 +39,7 @@ import vuejs from './assets/img/skills/vuejs.png'
 import typescript from './assets/img/skills/typescript.png'
 import angular from './assets/img/skills/angular.png'
 import laravel from './assets/img/skills/laravel.png'
-import nestjs from './assets/img/skills/nestjs.png'
+// import nestjs from './assets/img/skills/nestjs.png'
 import mysql from './assets/img/skills/mysql.png'
 import docker from './assets/img/skills/docker.png'
 import tailwindcss from './assets/img/skills/tailwindcss.png'
@@ -87,7 +87,7 @@ export const projectsData = [
     name: 'pet dog',
     category: 'front',
     language: 'Html/css/Bootstrap',
-    link: "https://ismahenabdallah.github.io/PetDogwebsite/"
+    //link: "https://ismahenabdallah.github.io/PetDogwebsite/"
   },
   {
     id: '2',
@@ -95,7 +95,7 @@ export const projectsData = [
     name: ' plans website ',
     category: 'front',
     language: 'Html/Css/Bootstrap',
-    link: "https://ismahenabdallah.github.io/planWebsite/"
+    //link: "https://ismahenabdallah.github.io/planWebsite/"
   },
   {
     id: '3',
@@ -111,7 +111,7 @@ export const projectsData = [
     name: 'catstore',
     category: 'front',
     language: 'react&redux/bootstrap',
-    link: "https://cat-store-iota.vercel.app/"
+    //link: "https://cat-store-iota.vercel.app/"
   },
   {
     id: '5',
@@ -119,7 +119,7 @@ export const projectsData = [
     name: 'e-commerce-clothes ',
     category: 'front',
     language: 'react&redux/bootstrap',
-    link: "https://e-commerce-vert-nine.vercel.app/"
+    //link: "https://e-commerce-vert-nine.vercel.app/"
   },
   {
     id: '6',
@@ -135,7 +135,7 @@ export const projectsData = [
     name: 'shop',
     category: 'front',
     language: 'Html/Css/sass/javascript/typscript',
-    link: "https://ismahenabdallah.github.io/shop_website/"
+    //link: "https://ismahenabdallah.github.io/shop_website/"
     //https://ismahenabdallah.github.io/shop/
 
   },
@@ -193,6 +193,7 @@ export const projectsData = [
     link: ""
 
   },
+
 
 
 ];

@@ -36,7 +36,7 @@ const About = () => {
               </p>
 
               <div className='flex  items-center'>
-                <p className='text-accent text-[10vh]'>.</p>
+
                 <h3 className='text-accent mt-8 mb-3'>formation professionnelle</h3>
 
               </div>
@@ -55,7 +55,7 @@ const About = () => {
                 </ul>
               </div>
               <div className='flex  items-center'>
-                <p className='text-accent text-[10vh]'>.</p>
+
                 <h3 className='text-accent mt-8 mb-3'> certificats</h3>
               </div>
               <div className=' '>
