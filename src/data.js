@@ -24,7 +24,7 @@ import Project10 from './assets/img/projects/image10.png';
 import Project11 from './assets/img/projects/image11.png';
 import Project12 from './assets/img/projects/image12.png';
 import Project13 from './assets/img/projects/image13.png';
-
+import Project14 from './assets/img/projects/image14.png';
 // skills images
 import html5 from './assets/img/skills/html5.png';
 import css3 from './assets/img/skills/css3.png';
@@ -43,7 +43,7 @@ import laravel from './assets/img/skills/laravel.png'
 import mysql from './assets/img/skills/mysql.png'
 import docker from './assets/img/skills/docker.png'
 import tailwindcss from './assets/img/skills/tailwindcss.png'
-
+import flutter from './assets/img/skills/flutter.png'
 
 // navigation
 export const navigation = [
@@ -186,10 +186,19 @@ export const projectsData = [
   },
   {
     id: '13',
-    image: Project13,
+    image: Project14,
     name: 'TodoApp',
-    category: 'front/back',
+    category: 'Mobile Development',
     language: 'MEVN/vuex/sass/bootstrap',
+    link: ""
+
+  },
+  {
+    id: '14',
+    image: Project13,
+    name: 'My-resume',
+    category: 'front/back',
+    language: 'flutter/json-server',
     link: ""
 
   },
@@ -208,6 +217,9 @@ export const projectsNav = [
   },
   {
     name: 'front/back',
+  },
+  {
+    name: 'Mobile Development',
   },
 
 ];
@@ -270,6 +282,10 @@ export const skills = [
   {
     image: docker,
   },
+  {
+    image: flutter,
+  },
+
 
 
 
