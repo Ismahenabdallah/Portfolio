@@ -186,18 +186,18 @@ export const projectsData = [
   },
   {
     id: '13',
-    image: Project14,
+    image: Project13,
     name: 'TodoApp',
-    category: 'Mobile Development',
+    category: 'front/back',
     language: 'MEVN/vuex/sass/bootstrap',
     link: ""
 
   },
   {
     id: '14',
-    image: Project13,
+    image: Project14,
     name: 'My-resume',
-    category: 'front/back',
+    category: 'Mobile Development',
     language: 'flutter/json-server',
     link: ""
 
