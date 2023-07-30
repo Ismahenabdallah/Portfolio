@@ -25,6 +25,8 @@ import Project11 from './assets/img/projects/image11.png';
 import Project12 from './assets/img/projects/image12.png';
 import Project13 from './assets/img/projects/image13.png';
 import Project14 from './assets/img/projects/image14.png';
+import Project15 from './assets/img/projects/Image15.png';
+import Project16 from './assets/img/projects/Image16.png';
 // skills images
 import html5 from './assets/img/skills/html5.png';
 import css3 from './assets/img/skills/css3.png';
@@ -39,7 +41,7 @@ import vuejs from './assets/img/skills/vuejs.png'
 import typescript from './assets/img/skills/typescript.png'
 import angular from './assets/img/skills/angular.png'
 import laravel from './assets/img/skills/laravel.png'
-// import nestjs from './assets/img/skills/nestjs.png'
+import nexttjs from './assets/img/skills/nextjs.png'
 import mysql from './assets/img/skills/mysql.png'
 import docker from './assets/img/skills/docker.png'
 import tailwindcss from './assets/img/skills/tailwindcss.png'
@@ -202,6 +204,24 @@ export const projectsData = [
     link: ""
 
   },
+  {
+    id: '15',
+    image: Project15,
+    name: 'bank_website with chatbot',
+    category: 'front/back',
+    language: 'MEAN STACK/Bootstrap',
+    link: ""
+
+  },
+  {
+    id: '16',
+    image: Project16,
+    name: 'topic',
+    category: 'front/back',
+    language: 'Nextjs/mongodb/tailwindcss',
+    link: ""
+
+  },
 
 
 
@@ -247,9 +267,9 @@ export const skills = [
   {
     image: nodejs,
   },
-  // {
-  //   image: nestjs,
-  // },
+  {
+    image: nexttjs,
+  },
 
   {
     image: laravel,
