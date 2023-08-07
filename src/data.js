@@ -27,12 +27,13 @@ import Project13 from './assets/img/projects/image13.png';
 import Project14 from './assets/img/projects/image14.png';
 import Project15 from './assets/img/projects/Image15.png';
 import Project16 from './assets/img/projects/Image16.png';
+import Project17 from './assets/img/projects/Image17.png';
 // skills images
 import html5 from './assets/img/skills/html5.png';
 import css3 from './assets/img/skills/css3.png';
 import js from './assets/img/skills/js.png';
 import reactjs from './assets/img/skills/reactjs.png';
-
+import firebase from './assets/img/skills/firbase.png'
 import nodejs from './assets/img/skills/nodejs.png';
 import git from './assets/img/skills/git.png';
 import mongodb from './assets/img/skills/mongodb.png'
@@ -223,7 +224,15 @@ export const projectsData = [
 
   },
 
+  {
+    id: '17',
+    image: Project17,
+    name: 'pinterest',
+    category: 'front/back',
+    language: 'Nextjs/nextAuth/firebase/tailwindcss',
+    link: ""
 
+  },
 
 ];
 
@@ -292,7 +301,9 @@ export const skills = [
   {
     image: tailwindcss,
   },
-
+  {
+    image: firebase
+  },
 
 
   {
