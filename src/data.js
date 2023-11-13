@@ -42,12 +42,13 @@ import vuejs from './assets/img/skills/vuejs.png'
 import typescript from './assets/img/skills/typescript.png'
 import angular from './assets/img/skills/angular.png'
 import laravel from './assets/img/skills/laravel.png'
-import nexttjs from './assets/img/skills/nextjs.png'
+import nextjs from './assets/img/skills/nextjs.png'
 import mysql from './assets/img/skills/mysql.png'
 import docker from './assets/img/skills/docker.png'
 import tailwindcss from './assets/img/skills/tailwindcss.png'
 import flutter from './assets/img/skills/flutter.png'
-
+import dotnet from "./assets/img/skills/dotnet.png"
+import graphql from "./assets/img/skills/graphql.png"
 // navigation
 export const navigation = [
   {
@@ -262,6 +263,10 @@ export const skills = [
     image: js,
   },
   {
+    image: nextjs,
+  },
+
+  {
     image: reactjs,
   },
   {
@@ -277,12 +282,16 @@ export const skills = [
     image: nodejs,
   },
   {
-    image: nexttjs,
+    image: graphql,
   },
 
   {
     image: laravel,
   },
+  {
+    image: dotnet,
+  },
+
   {
     image: mongodb,
   },
@@ -304,7 +313,6 @@ export const skills = [
   {
     image: firebase
   },
-
 
   {
     image: git,
