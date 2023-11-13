@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { educations, certificats } from '../data';
+import { educations, certificats, stages } from '../data';
 
 
 const About = () => {
@@ -70,7 +70,27 @@ const About = () => {
                   })}
                 </ul>
               </div>
+              <div className='flex  items-center'>
 
+                <h3 className='text-accent mt-8 mb-3'>stage </h3>
+
+              </div>
+              <div className=' '>
+                <ul className='ml-12  border-l-2  border-l-slate-400 '>
+                  {stages.map((item, index) => {
+                    return (
+                      <div className='ml-4 ' key={index}>
+                        <h1>{item.titre}</h1>
+                        <h2>{item.entreprise}</h2>
+                        <h2>{item.lieu}</h2>
+                        <p className=' hidden lg:text-accent md:text-[10vh] md:absolute md:translate-x-[-5vh] md:translate-y-[-3.5vh]lg:text-accent lg:text-[10vh] lg:absolute lg:translate-x-[-5vh] lg:translate-y-[-3.5vh] '>.</p>
+                        <p>{item.description}</p>
+                       
+
+                      </div>)
+                  })}
+                </ul>
+              </div>
             </div>
 
           </div>

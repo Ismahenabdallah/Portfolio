@@ -130,7 +130,7 @@ export const projectsData = [
     name: 'resume-website ',
     category: 'front',
     language: 'react&redux/Material-ui',
-    link: ""
+    // link: ""
   },
   {
     id: '7',
@@ -148,7 +148,7 @@ export const projectsData = [
     name: 'social-app ',
     category: 'front/back',
     language: 'MERN STACK/Tailwindcss',
-    link: ""
+    //link: ""
 
   },
   {
@@ -157,7 +157,7 @@ export const projectsData = [
     name: 'dashbord(gestion des employés) ',
     category: 'front/back',
     language: 'MEAN STACK/Bootstrap',
-    link: ""
+    //link: ""
 
   },
   {
@@ -166,7 +166,7 @@ export const projectsData = [
     name: 'work_website',
     category: 'front/back',
     language: 'MEAN STACK/Bootstrap',
-    link: ""
+    // link: ""
 
   },
   {
@@ -175,7 +175,7 @@ export const projectsData = [
     name: 'websitestatic',
     category: 'front',
     language: 'vue.js/Bootstrap',
-    link: ""
+    // link: ""
 
   },
   {
@@ -184,7 +184,7 @@ export const projectsData = [
     name: 'restaurant management',
     category: 'front/back',
     language: 'vue.js/Bootstrap/json-server',
-    link: ""
+    // link: ""
 
   },
   {
@@ -193,7 +193,7 @@ export const projectsData = [
     name: 'TodoApp',
     category: 'front/back',
     language: 'MEVN/vuex/sass/bootstrap',
-    link: ""
+    //link: ""
 
   },
   {
@@ -202,7 +202,7 @@ export const projectsData = [
     name: 'My-resume',
     category: 'Mobile Development',
     language: 'flutter/json-server',
-    link: ""
+    // link: ""
 
   },
   {
@@ -211,7 +211,7 @@ export const projectsData = [
     name: 'bank_website with chatbot',
     category: 'front/back',
     language: 'MEAN STACK/Bootstrap',
-    link: ""
+    //link: ""
 
   },
   {
@@ -220,7 +220,7 @@ export const projectsData = [
     name: 'topic',
     category: 'front/back',
     language: 'Nextjs/mongodb/tailwindcss',
-    link: ""
+    // link: ""
 
   },
 
@@ -230,7 +230,7 @@ export const projectsData = [
     name: 'pinterest',
     category: 'front/back',
     language: 'Nextjs/nextAuth/firebase/tailwindcss',
-    link: ""
+    // link: ""
 
   },
 
@@ -339,6 +339,15 @@ export const educations = [
     titre: 'Baccalauréat en informatique (2019)'
   },
 ]
+export const stages = [
+  {
+    titre: "Stage de Développeur Logiciel",
+    entreprise: "Afritic Group",
+    lieu: "Maine, États-Unis (À distance)",
+    description: "Pendant ce stage chez Afritic Group, j'ai développé des compétences spécifiques en programmation et en développement logiciel, renforçant ainsi ma capacité à résoudre des problèmes complexes et à travailler efficacement sur des projets informatiques."
+  },
+  // Ajoutez d'autres objets de stage si nécessaire
+];
 
 
 
